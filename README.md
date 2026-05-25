@@ -36,7 +36,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="45" alt="GitHub logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" height="45" alt="GitHub logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="45" alt="GitHub logo"  />
 </div>
 
