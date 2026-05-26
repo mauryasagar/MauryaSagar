@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">
+<div align="left">
   
 Experienced with:
 - SQL for data querying & optimization
@@ -24,7 +24,7 @@ Experienced with:
 - Power BI for interactive dashboards
 - Excel for reporting and business analysis
   
-</p>
+</div>
 
 ###
 
