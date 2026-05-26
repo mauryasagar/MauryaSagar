@@ -10,7 +10,11 @@
 
 <h2 align="center">✨ About Me</h2>
 
-<p align="left">🐞 Creating bugs since I first wrote my “Hello World!”<br>📚 Currently sharpening my Python skills for Data Analysis</p>
+Experienced with:
+- SQL for data querying & optimization
+- Python for data analysis and automation
+- Power BI for interactive dashboards
+- Excel for reporting and business analysis
 
 ###
 
