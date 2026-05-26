@@ -8,13 +8,23 @@
 
 ###
 
-<h2 align="center">✨ About Me</h2>
+<h2 align="left">✨ About Me</h2>
 
+###
+
+<img align="right" height="150" src="https://i.postimg.cc/9069MN4W/Find-Share-on-GIPHY.gif"  />
+
+###
+
+<p align="left">
+  
 Experienced with:
 - SQL for data querying & optimization
 - Python for data analysis and automation
 - Power BI for interactive dashboards
 - Excel for reporting and business analysis
+  
+</p>
 
 ###
 
