@@ -28,7 +28,9 @@ Experienced with:
 
 ###
 
+<div>
 <h2 align="center">Technologies that I use</h2>
+</div>
 
 ### 
 
