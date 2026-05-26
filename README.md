@@ -10,7 +10,7 @@
 
 <h2 align="center">✨ About Me</h2>
 
-<p align="left">🐞 Creating bugs since I first wrote my “Hello World!”<br>📚 Currently sharpening my Java skills for backend and problem-solving<br>🌍 Exploring open-source because the best learning happens in shared code</p>
+<p align="left">🐞 Creating bugs since I first wrote my “Hello World!”<br>📚 Currently sharpening my Python skills for Data Analysis<br>🌍 Exploring open-source because the best learning happens in shared code</p>
 
 ###
 
