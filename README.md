@@ -16,15 +16,15 @@
 
 ###
 
-<div align="left">
+<p align="left">
   
 Experienced with:
 - SQL for data querying & optimization
 - Python for data analysis and automation
 - Power BI for interactive dashboards
 - Excel for reporting and business analysis
-  
-</div>
+
+</p>
 
 ###
 
