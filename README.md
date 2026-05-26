@@ -49,6 +49,3 @@ Experienced with:
   <img width="10" />
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="45" alt="GitHub logo"  />
 </div>
-
-
-###
