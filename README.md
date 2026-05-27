@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.postimg.cc/9069MN4W/Find-Share-on-GIPHY.gif"  />
+<img align="right" height="100" src="https://i.postimg.cc/9069MN4W/Find-Share-on-GIPHY.gif"  />
 
 ###
 
@@ -23,6 +23,7 @@ Experienced with:
 - Python for data analysis and automation
 - Power BI for interactive dashboards
 - Excel for reporting and business analysis
+- Exploring how technology works at the system level
 
 </p>
 
