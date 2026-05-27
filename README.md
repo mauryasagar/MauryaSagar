@@ -18,10 +18,10 @@
 <p align="left">
   
 Experienced with:
-- SQL for data querying & optimization
-- Python for data analysis and automation
-- Power BI for interactive dashboards
-- Excel for reporting and business analysis
+- Python for data analysis, automation and workflows
+- SQL for data querying, reporting, and optimization
+- Power BI for interactive dashboards and reporting
+- Excel for reporting, business analysis and insights
 - Exploring how technology works at the system level
 
 </p>
