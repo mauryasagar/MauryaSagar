@@ -2,13 +2,12 @@
 
 ###
 
-<h1 align="center">Hi 👋 I'm Sagar Maurya</h1>
-
+<h1 align="center">Sagar Maurya</h1>
 <h3 align="center">Data Analyst | Business Intelligence | Data Visualization</h3>
 
 ###
 
-<h2 align="left">About Me</h2>
+<h3 align="left">About Me</h3>
 
 ###
 
