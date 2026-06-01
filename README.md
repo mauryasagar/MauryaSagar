@@ -48,4 +48,8 @@ Experienced with:
   <img src="https://github.com/xandemon/developer-icons/blob/main/icons/html5.svg" height="50" alt="html5 logo"  />
   <img width="10" />
   <img src="https://github.com/xandemon/developer-icons/blob/main/icons/css3.svg" height="50" alt="css logo"  />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" height="50" alt="js logo"  />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" height="50" alt="react logo"  />
 </div>
