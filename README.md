@@ -6,7 +6,7 @@
 
 ###
 
-I'm drawn to how things work — from data pipelines to system internals.  
+I'm drawn to how things work at the system level.  
 I build, analyse, automate, and explore across whatever problem interests me most.
 ##
 
