@@ -5,6 +5,14 @@
 <h1 align="center">Sagar Maurya</h1>
 <h3 align="center">Data Analyst | Business Intelligence | Data Visualization</h3>
 
+---
+
+###
+
+I'm drawn to how things work — from data pipelines to system internals.  
+I build, analyse, automate, and explore across whatever problem interests me most.
+##
+
 ###
 
 <h3 align="left">What I work with</h3>
