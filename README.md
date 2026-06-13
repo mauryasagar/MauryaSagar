@@ -22,14 +22,14 @@
 
 ###
 
-<p align="left">
+<p align="left"><i>
 
  
 - Writing code that solves actual problems
 - Turning messy data into clear answers
 - Building small tools that make repetitive things easier
 
-</p>
+</i></p>
 
 ##
 
