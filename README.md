@@ -3,9 +3,6 @@
 ###
 
 <h1 align="center">Sagar Maurya</h1>
-<h3 align="center">Data Analyst | Business Intelligence | Data Visualization</h3>
-
----
 
 ###
 
