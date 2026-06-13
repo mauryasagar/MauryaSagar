@@ -14,11 +14,11 @@
 
 ###
 
-<h3 align="left">What I work with</h3>
+<img align="right" height="150" src="https://i.postimg.cc/9069MN4W/Find-Share-on-GIPHY.gif"  />
 
 ###
 
-<img align="right" height="100" src="https://i.postimg.cc/9069MN4W/Find-Share-on-GIPHY.gif"  />
+<h3 align="left">What I work with</h3>
 
 ###
 
