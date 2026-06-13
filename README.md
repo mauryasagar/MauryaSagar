@@ -17,7 +17,7 @@
 
 <p align="left">
 
-### 
+ 
 - Writing code that solves actual problems
 - Turning messy data into clear answers
 - Exploring how technology works at the system level
