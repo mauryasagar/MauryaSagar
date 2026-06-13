@@ -25,7 +25,6 @@ I build, analyse, automate, and explore across whatever problem interests me mos
  
 - Writing code that solves actual problems
 - Turning messy data into clear answers
-- Exploring how technology works at the system level
 - Building small tools that make repetitive things easier
 
 </p>
