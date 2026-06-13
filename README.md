@@ -7,7 +7,7 @@
 
 ###
 
-<h3 align="left">About Me</h3>
+<h3 align="left">What I work with</h3>
 
 ###
 
@@ -16,13 +16,12 @@
 ###
 
 <p align="left">
-  
-Experienced with:
-- Python for data analysis, automation and workflows
-- SQL for data querying, reporting, and optimization
-- Power BI for interactive dashboards and reporting
-- Excel for reporting, business analysis and insights
+
+### 
+- Writing code that solves actual problems
+- Turning messy data into clear answers
 - Exploring how technology works at the system level
+- Building small tools that make repetitive things easier
 
 </p>
 
