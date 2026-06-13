@@ -14,7 +14,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.postimg.cc/9069MN4W/Find-Share-on-GIPHY.gif"  />
+<img align="right" height="130" src="https://i.postimg.cc/9069MN4W/Find-Share-on-GIPHY.gif"  />
 
 ###
 
