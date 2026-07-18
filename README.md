@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="40">
-
+<!-- <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="40"> -->
 ###
 
 <h1 align="center">Sagar Maurya</h1>
