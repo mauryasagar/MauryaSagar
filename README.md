@@ -23,6 +23,14 @@
 
 </i></p>
 
+---
+
+### Tech
+
+**Languages** — Python, C/C++, SQL, JavaScript  
+**Data** — Pandas, NumPy, Matplotlib  
+**Tools** — Git, Linux, VS Code
+
 ##
 
 <!-- 
