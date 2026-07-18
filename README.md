@@ -1,4 +1,3 @@
-<!-- <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="40"> -->
 ###
 
 <h1 align="center">Sagar Maurya</h1>
@@ -10,10 +9,6 @@
 </i></p>
 
 ##
-
-###
-
-<img align="right" height="130" src="https://i.postimg.cc/9069MN4W/Find-Share-on-GIPHY.gif"  />
 
 ###
 
@@ -31,3 +26,8 @@
 </i></p>
 
 ##
+
+<!-- 
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="40"> 
+<img align="right" height="130" src="https://i.postimg.cc/9069MN4W/Find-Share-on-GIPHY.gif"  />
+-->
