@@ -24,7 +24,7 @@
 
 ##
 
-### Tech
+### Tech Stack
 
 **Languages** — <i> Python, SQL, JavaScript </i>  
 **Data** — <i> Pandas, NumPy, Matplotlib </i>  
