@@ -1,4 +1,7 @@
 <h1 align="center">Sagar Maurya</h1>
+<p align="center">
+CS undergraduate &nbsp;·&nbsp; Data Analysis intern &nbsp;·&nbsp; Open source contributor
+</p>
 
 ###
 
