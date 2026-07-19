@@ -34,7 +34,7 @@
 
 ### Projects
 
-**[DataSense](https://github.com/mauryasagar/DataSense)** — Browser-based local AI workspace for data students
+> **[DataSense](https://github.com/mauryasagar/DataSense)** — Browser-based local AI workspace for data students
 
 <!-- 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="40"> 
