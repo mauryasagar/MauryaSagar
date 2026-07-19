@@ -16,7 +16,6 @@
 
 <p align="left"><i>
 
- 
 - Writing code that solves actual problems
 - Turning messy data into clear answers
 - Building small tools that make repetitive things easier
@@ -27,9 +26,9 @@
 
 ### Tech
 
-**Languages** — Python, C/C++, SQL, JavaScript  
-**Data** — Pandas, NumPy, Matplotlib  
-**Tools** — Git, Linux, VS Code
+**Languages** — <i> Python, SQL, JavaScript </i>  
+**Data** — <i> Pandas, NumPy, Matplotlib </i>  
+**Tools** — <i> Git, GitHub, Linux, VS Code </i>
 
 ##
 
