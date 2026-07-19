@@ -32,6 +32,10 @@
 
 ##
 
+### Projects
+
+**DataSense** — Browser-based local AI workspace for data students
+
 <!-- 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="40"> 
 <img align="right" height="130" src="https://i.postimg.cc/9069MN4W/Find-Share-on-GIPHY.gif"  />
