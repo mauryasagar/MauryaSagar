@@ -1,6 +1,6 @@
 <h1 align="center">Sagar Maurya</h1>
 <p align="center"><b>
-CS undergraduate &nbsp;•&nbsp; Data Analysis intern &nbsp;•&nbsp; Open Source contributor
+CS undergraduate &nbsp;•&nbsp; Aspiring Data Analyst &nbsp;•&nbsp; Open Source contributor
 </b></p>
 
 ###
@@ -81,6 +81,6 @@ local AI workspace built for data students.
 
 | Contributions | Current Streak | Longest Streak | Pull Requests | Issues |
 | ------------- | -------------- | -------------- | ------------- | ------ |
-| 660           | 6 days         | 83 days        | 11            | 3      |
+| 660           | 6 days         | 83 days        | 11            | 4      |
 
 -->
