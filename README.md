@@ -38,6 +38,15 @@
 | ------------- | -------------- | ------------- | ------ |
 | 660           | 83 days        | 11            | 4      |
 
+##
+
+<details>
+<summary><h3>Blogs</h3></summary>
+
+- [Data Isn't What Your Textbook Said It Was](https://dev.to/sagarmaurya/data-isnt-what-your-textbook-said-it-was-3df8)
+
+</details>
+
 
 <!-- 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="40"> 
@@ -59,5 +68,13 @@ local AI workspace built for data students.
 ### Projects
 
 > **[DataSense](https://github.com/mauryasagar/DataSense)** — Browser-based local AI workspace for data students
+
+> [!NOTE]
+> ### 📝 Blogs
+> - [Data Isn't What Your Textbook Said It Was](https://dev.to/sagarmaurya/data-isnt-what-your-textbook-said-it-was-3df8)
+
+> [!IMPORTANT]
+> ### 📝 Blogs
+> - [Data Isn't What Your Textbook Said It Was](https://dev.to/sagarmaurya/data-isnt-what-your-textbook-said-it-was-3df8)
 
 -->
