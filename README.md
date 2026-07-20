@@ -43,7 +43,7 @@
 <details>
 <summary><h3>Blogs</h3></summary>
 
-- [Data Isn't What Your Textbook Said It Was](https://dev.to/sagarmaurya/data-isnt-what-your-textbook-said-it-was-3df8)
+> [Data Isn't What Your Textbook Said It Was](https://dev.to/sagarmaurya/data-isnt-what-your-textbook-said-it-was-3df8)
 
 </details>
 
