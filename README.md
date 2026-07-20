@@ -70,7 +70,7 @@ local AI workspace built for data students.
 
 ### Projects
 
-**DataSense** — Browser-based local AI workspace for data students
+> **[DataSense](https://github.com/mauryasagar/DataSense)** — Browser-based local AI workspace for data students
 
 
 -->
