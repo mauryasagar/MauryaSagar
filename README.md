@@ -37,9 +37,9 @@ CS undergraduate &nbsp;•&nbsp; Data Analysis intern &nbsp;•&nbsp; Open Sourc
 ### GitHub Stats
 <div align="center">
  
-| Contributions | Current Streak | Longest Streak | Pull Requests | Issues |
-| ------------- | -------------- | -------------- | ------------- | ------ |
-| 660           | 6 days         | 83 days        | 11            | 4      |
+| Contributions | Longest Streak | Pull Requests | Issues |
+| ------------- | -------------- | ------------- | ------ |
+| 660           | 83 days        | 11            | 4      |
 
 </div>
 <!-- 
