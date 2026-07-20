@@ -78,36 +78,36 @@ for day in all_days:
     else:
         current = 0
 
-svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 230" width="100%" height="auto">
-  <rect width="600" height="230" fill="transparent"/>
+svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 185" width="500">
+  <rect width="500" height="185" fill="transparent"/>
 
-  <text x="0" y="25" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
-    font-size="18" font-weight="bold" fill="#e6edf3">GitHub Stats</text>
+  <text x="0" y="20" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="14" font-weight="600" fill="#e6edf3">GitHub Stats</text>
 
-  <text x="0" y="65" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
-    font-size="16" fill="#e6edf3">Contributions</text>
-  <text x="250" y="65" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
-    font-size="16" fill="#e6edf3">{total_contributions}</text>
+  <text x="0" y="52" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="13" fill="#e6edf3">Contributions</text>
+  <text x="200" y="52" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="13" fill="#e6edf3">{total_contributions}</text>
 
-  <text x="0" y="100" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
-    font-size="16" fill="#e6edf3">Current Streak</text>
-  <text x="250" y="100" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
-    font-size="16" fill="#e6edf3">{streak} days</text>
+  <text x="0" y="82" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="13" fill="#e6edf3">Current Streak</text>
+  <text x="200" y="82" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="13" fill="#e6edf3">{streak} days</text>
 
-  <text x="0" y="135" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
-    font-size="16" fill="#e6edf3">Streak</text>
-  <text x="250" y="135" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
-    font-size="16" fill="#e6edf3">{longest} days</text>
+  <text x="0" y="112" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="13" fill="#e6edf3">Longest Streak</text>
+  <text x="200" y="112" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="13" fill="#e6edf3">{longest} days</text>
 
-  <text x="0" y="170" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
-    font-size="16" fill="#e6edf3">Pull Requests</text>
-  <text x="250" y="170" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
-    font-size="16" fill="#e6edf3">{prs}</text>
+  <text x="0" y="142" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="13" fill="#e6edf3">Pull Requests</text>
+  <text x="200" y="142" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="13" fill="#e6edf3">{prs}</text>
 
-  <text x="0" y="205" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
-    font-size="16" fill="#e6edf3">Issues opened</text>
-  <text x="250" y="205" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
-    font-size="16" fill="#e6edf3">{issues}</text>
+  <text x="0" y="172" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="13" fill="#e6edf3">Issues opened</text>
+  <text x="200" y="172" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="13" fill="#e6edf3">{issues}</text>
 
 </svg>"""
 
