@@ -1,16 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="160">
-  <rect width="600" height="160" fill="transparent"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220">
+  <rect width="600" height="220" fill="transparent"/>
 
-  <text x="0" y="25" font-family="monospace" font-size="16"
-    font-weight="bold" fill="#58a6ff">&#128202; GitHub Stats</text>
+  <text x="0" y="25" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+    font-size="16" font-weight="bold" fill="#e6edf3">GitHub Stats</text>
 
-  <text x="0" y="60" font-family="monospace" font-size="14" fill="#e6edf3">Repositories:</text>
-  <text x="180" y="60" font-family="monospace" font-size="14" fill="#58a6ff" font-weight="bold">10</text>
+  <text x="0" y="60" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+    font-size="14" fill="#e6edf3">Repositories</text>
+  <text x="220" y="60" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+    font-size="14" fill="#e6edf3">10</text>
 
-  <text x="0" y="90" font-family="monospace" font-size="14" fill="#e6edf3">Commits this year:</text>
-  <text x="180" y="90" font-family="monospace" font-size="14" fill="#3fb950" font-weight="bold">389</text>
+  <text x="0" y="90" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+    font-size="14" fill="#e6edf3">Commits this year</text>
+  <text x="220" y="90" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+    font-size="14" fill="#e6edf3">392</text>
 
-  <text x="0" y="120" font-family="monospace" font-size="14" fill="#e6edf3">Pull Requests:</text>
-  <text x="180" y="120" font-family="monospace" font-size="14" fill="#bc8cff" font-weight="bold">11</text>
+  <text x="0" y="120" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+    font-size="14" fill="#e6edf3">Pull Requests</text>
+  <text x="220" y="120" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+    font-size="14" fill="#e6edf3">11</text>
+
+  <text x="0" y="150" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+    font-size="14" fill="#e6edf3">Issues opened</text>
+  <text x="220" y="150" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+    font-size="14" fill="#e6edf3">4</text>
+
+  <text x="0" y="180" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+    font-size="14" fill="#e6edf3">Repos contributed to</text>
+  <text x="220" y="180" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+    font-size="14" fill="#e6edf3">12</text>
+
+  <text x="0" y="210" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+    font-size="14" fill="#e6edf3">Followers</text>
+  <text x="220" y="210" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+    font-size="14" fill="#e6edf3">15</text>
 
 </svg>
