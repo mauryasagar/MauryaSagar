@@ -1,6 +1,6 @@
 import requests
 import os
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 TOKEN = os.environ["GITHUB_TOKEN"]
 USERNAME = "mauryasagar"
@@ -8,18 +8,14 @@ USERNAME = "mauryasagar"
 headers = {"Authorization": f"bearer {TOKEN}"}
 
 now = datetime.now(timezone.utc)
-start_of_year = f"{now.year}-01-01T00:00:00Z"
+one_year_ago = (now - timedelta(days=365)).strftime("%Y-%m-%dT%H:%M:%SZ")
 today = now.strftime("%Y-%m-%dT%H:%M:%SZ")
 
 query = f"""
 {{
   user(login: "mauryasagar") {{
-    repositories(ownerAffiliations: OWNER, privacy: PUBLIC) {{
-      totalCount
-    }}
-    contributionsCollection(from: "{start_of_year}", to: "{today}") {{
+    contributionsCollection(from: "{one_year_ago}", to: "{today}") {{
       totalPullRequestContributions
-      totalIssueContributions
       contributionCalendar {{
         totalContributions
         weeks {{
@@ -30,7 +26,7 @@ query = f"""
         }}
       }}
     }}
-    followers {{
+    issues(filterBy: {{createdBy: "mauryasagar"}}) {{
       totalCount
     }}
   }}
@@ -45,8 +41,8 @@ res = requests.post(
 
 user = res["data"]["user"]
 prs = user["contributionsCollection"]["totalPullRequestContributions"]
-issues = user["contributionsCollection"]["totalIssueContributions"]
 total_contributions = user["contributionsCollection"]["contributionCalendar"]["totalContributions"]
+issues = user["issues"]["totalCount"]
 
 # Build days list
 weeks = user["contributionsCollection"]["contributionCalendar"]["weeks"]
@@ -114,4 +110,4 @@ svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 185" width="5
 with open("stats.svg", "w") as f:
     f.write(svg)
 
-print(f"Done! Contributions: {total_contributions}, Streak: {streak}, Longest: {longest}")
+print(f"Done! Contributions: {total_contributions}, Streak: {streak}, Longest: {longest}, PRs: {prs}, Issues: {issues}")
