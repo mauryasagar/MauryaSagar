@@ -18,13 +18,9 @@
 
 ##
 
-<details>
-<summary><h3>Blogs</h3></summary>
+[Blogs](https://dev.to/sagarmaurya/)
 
-- [Data Isn't What Your Textbook Said It Was](https://dev.to/sagarmaurya/data-isnt-what-your-textbook-said-it-was-3df8)
-- [We Made a Fake Agent Break Itself, Then Built Something That Fixes It](https://dev.to/sagarmaurya/ouroboros-ai-we-made-a-fake-agent-break-itself-then-built-something-that-fixes-it-4akk)
-
-</details>
+<a href="https://dev.to/sagarmaurya/" target="_blank">_Blogs_</a>
 
 <!-- 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="40"> 
