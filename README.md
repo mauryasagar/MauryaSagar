@@ -18,9 +18,7 @@
 
 ##
 
-[Blogs](https://dev.to/sagarmaurya/)
-
-<a href="https://dev.to/sagarmaurya/" target="_blank">_Blogs_</a>
+[_Blogs_](https://dev.to/sagarmaurya/)
 
 <!-- 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="40"> 
