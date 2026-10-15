@@ -10,8 +10,8 @@
 
 <p align="left"><i>
 
+- Leveraging AI as a coding partner
 - Writing code that solves actual problems
-- Turning messy data into clear answers
 - Building small tools that make repetitive things easier
 
 </i></p>
