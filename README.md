@@ -18,7 +18,7 @@
 
 ##
 
-[_Blogs_](https://dev.to/sagarmaurya/)
+[_**LinkedIn**_](https://www.linkedin.com/in/mauryasagar/) &nbsp; [_**Blogs**_](https://dev.to/sagarmaurya/)
 
 <!-- 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="40"> 
