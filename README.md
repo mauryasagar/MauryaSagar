@@ -16,7 +16,11 @@
 
 ##
 
-[_**LinkedIn**_](https://www.linkedin.com/in/mauryasagar/) &nbsp; [_**G.dev**_](https://g.dev/sagarmaurya) &nbsp; [_**Dev.to**_](https://dev.to/sagarmaurya/)
+<div align="center">
+
+[_**LinkedIn**_](https://www.linkedin.com/in/mauryasagar/) • [_**G.dev**_](https://g.dev/sagarmaurya) • [_**Dev.to**_](https://dev.to/sagarmaurya/)
+
+</div>
 
 <!-- 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="40"> 
