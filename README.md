@@ -6,8 +6,6 @@
 
 <h3 align="left">What I work with</h3>
 
-##
-
 <p align="left"><i>
 
 - Leveraging AI as a coding partner
