@@ -21,8 +21,4 @@
 <!-- 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="40"> 
 <img align="right" height="130" src="https://i.postimg.cc/9069MN4W/Find-Share-on-GIPHY.gif"  />
-### Tech Stack
-**Languages** — <i> Python, SQL, JavaScript </i>  
-**Data** — <i> Pandas, NumPy, Matplotlib </i>  
-**Tools** — <i> Git, GitHub, VS Code </i>
 -->
