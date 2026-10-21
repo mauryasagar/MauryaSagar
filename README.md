@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[_**LinkedIn**_](https://www.linkedin.com/in/mauryasagar/) &emsp;![·](pulse.svg)&emsp; [_**G.dev**_](https://g.dev/sagarmaurya) &emsp;![·](pulse.svg)&emsp; [_**Dev.to**_](https://dev.to/sagarmaurya/)
+[_**G.dev**_](https://g.dev/sagarmaurya) &nbsp;&emsp;![·](pulse.svg)&emsp; [_**LinkedIn**_](https://www.linkedin.com/in/mauryasagar/) &emsp;![·](pulse.svg)&emsp; [_**Dev.to**_](https://dev.to/sagarmaurya/)
 
 <img src="dots.svg" alt="" width="106">
 
