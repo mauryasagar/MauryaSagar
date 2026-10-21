@@ -1,4 +1,8 @@
+<div align="center">
+
 <img src="header.svg" alt="Sagar Maurya" width="420">
+
+</div>
 
 <p align="center"><i>I'm drawn to how things work — from open source contributions to the system level. I build, analyse, automate, and explore across whatever problem interests me most.</i></p>
 
