@@ -4,7 +4,7 @@
 
 </div>
 
-<p align="center"><i><b>I am drawn to <a href="https://github.com/MauryaSagar">how things work</a> at the system level</b></i></p>
+<p align="center"><i>I'm drawn to how things work — from open source contributions to the system level. I build, analyse, automate, and explore across whatever problem interests me most.</i></p>
 
 ##
 
@@ -29,6 +29,7 @@
 </div>
 
 <!-- 
+<p align="center"><i><b>I am drawn to <a href="https://github.com/MauryaSagar">how things work</a> at the system level</b></i></p>
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="40"> 
 <img align="right" height="130" src="https://i.postimg.cc/9069MN4W/Find-Share-on-GIPHY.gif"  />
 -->
