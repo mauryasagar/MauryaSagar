@@ -1,8 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
 <style>
-.c{fill:#1f2328;transform-box:fill-box;transform-origin:center;animation:p 2s ease-in-out infinite}
-@keyframes p{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.6);opacity:.5}}
+.g{fill:#4493f8;transform-box:fill-box;transform-origin:center;animation:g 4s ease-in-out infinite}
+.c{fill:#1f2328;animation:d 4s ease-in-out infinite}
+@keyframes g{0%,15%{opacity:0;transform:scale(.55)}40%{opacity:1}100%{opacity:0;transform:scale(1.1)}}
+@keyframes d{0%{opacity:0}20%,70%{opacity:1}100%{opacity:0}}
 @media (prefers-color-scheme: dark){.c{fill:#ffffff}}
 </style>
-<circle class="c" cx="8" cy="8" r="2.8"/>
+<g class="g">
+<circle cx="8" cy="8" r="6.2" fill-opacity=".14"/>
+<circle cx="8" cy="8" r="4.6" fill-opacity=".18"/>
+<circle cx="8" cy="8" r="3" fill-opacity=".22"/>
+</g>
+<circle class="c" cx="8" cy="8" r="1.6"/>
 </svg>
