@@ -4,9 +4,9 @@
 
 </div>
 
-<p align="center"><i>I'm drawn to how things work — from open source contributions to the system level. I build, analyse, automate, and explore across whatever problem interests me most.</i></p>
+<p align="center">I am drawn to <a href="https://github.com/MauryaSagar">how things work</a> at the system level</p>
 
-#
+##
 
 <h3 align="left">What I work with</h3>
 
