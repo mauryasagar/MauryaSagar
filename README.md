@@ -24,6 +24,8 @@
 
 [_**LinkedIn**_](https://www.linkedin.com/in/mauryasagar/) &emsp;•&emsp; [_**G.dev**_](https://g.dev/sagarmaurya) &emsp;•&emsp; [_**Dev.to**_](https://dev.to/sagarmaurya/)
 
+<img src="dots.svg" alt="" width="106">
+
 </div>
 
 <!-- 
