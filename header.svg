@@ -5,5 +5,5 @@
 @keyframes bk{50%{opacity:0}}
 @media (prefers-color-scheme: dark){.nm{fill:#e6edf3}.cr{fill:#4493f8}}
 </style>
-<text class="nm" x="0" y="46">Sagar Maurya<tspan class="cr">_</tspan></text>
+<text class="nm" x="210" y="46" text-anchor="middle">Sagar Maurya<tspan class="cr">_</tspan></text>
 </svg>
