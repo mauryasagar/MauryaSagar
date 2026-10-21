@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="64" viewBox="0 0 420 64">
 <style>
 .nm{font:600 36px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#1f2328}
+.gh{fill-opacity:0}
 .cr{fill:#0969da;animation:bk 1s steps(1) infinite}
 @keyframes bk{50%{opacity:0}}
 @media (prefers-color-scheme: dark){.nm{fill:#e6edf3}.cr{fill:#4493f8}}
 </style>
-<text class="nm" x="210" y="46" text-anchor="middle">Sagar Maurya<tspan class="cr">_</tspan></text>
+<text class="nm" x="210" y="46" text-anchor="middle"><tspan class="gh">_</tspan>Sagar Maurya<tspan class="cr">_</tspan></text>
 </svg>
