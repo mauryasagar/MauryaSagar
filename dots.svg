@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="106" height="30" viewBox="0 0 106 30">
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="16" viewBox="0 9 106 16">
 <style>
 .dt{fill:#0969da;opacity:.25;animation:wv 1.8s ease-in-out infinite}
 @keyframes wv{0%,100%{opacity:.25;transform:translateY(0)}50%{opacity:1;transform:translateY(-6px)}}
