@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+<style>
+.c{fill:#1f2328;animation:b 2s ease-in-out infinite}
+.r{fill:none;stroke:#1f2328;stroke-width:1;transform-box:fill-box;transform-origin:center;animation:p 2s ease-out infinite}
+@keyframes b{0%,100%{opacity:.5}50%{opacity:1}}
+@keyframes p{0%{transform:scale(1);opacity:.7}100%{transform:scale(3);opacity:0}}
+@media (prefers-color-scheme: dark){.c{fill:#ffffff}.r{stroke:#ffffff}}
+</style>
+<circle class="c" cx="8" cy="8" r="2.5"/>
+<circle class="r" cx="8" cy="8" r="2.5"/>
+</svg>
