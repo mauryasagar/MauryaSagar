@@ -4,7 +4,7 @@
 
 </div>
 
-<p align="center"><b>I am drawn to <a href="https://github.com/MauryaSagar">how things work</a> at the system level</b></p>
+<p align="center"><i><b>I am drawn to <a href="https://github.com/MauryaSagar">how things work</a> at the system level</b></i></p>
 
 ##
 
