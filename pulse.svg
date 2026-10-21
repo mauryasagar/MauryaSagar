@@ -4,5 +4,5 @@
 @keyframes p{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.6);opacity:.5}}
 @media (prefers-color-scheme: dark){.c{fill:#ffffff}}
 </style>
-<circle class="c" cx="8" cy="8" r="1.8"/>
+<circle class="c" cx="8" cy="8" r="2.8"/>
 </svg>
