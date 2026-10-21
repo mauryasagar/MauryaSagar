@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="30" viewBox="0 0 106 30">
+<style>
+.dt{fill:#0969da;opacity:.25;animation:wv 1.8s ease-in-out infinite}
+@keyframes wv{0%,100%{opacity:.25;transform:translateY(0)}50%{opacity:1;transform:translateY(-6px)}}
+@media (prefers-color-scheme: dark){.dt{fill:#4493f8}}
+</style>
+<circle class="dt" cx="9" cy="20" r="2.5"/>
+<circle class="dt" cx="31" cy="20" r="2.5" style="animation-delay:.15s"/>
+<circle class="dt" cx="53" cy="20" r="2.5" style="animation-delay:.3s"/>
+<circle class="dt" cx="75" cy="20" r="2.5" style="animation-delay:.45s"/>
+<circle class="dt" cx="97" cy="20" r="2.5" style="animation-delay:.6s"/>
+</svg>
