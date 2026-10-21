@@ -1,21 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
 <style>
-.c{fill:#1f2328}
-@media (prefers-color-scheme: dark){.c{fill:#ffffff}}
+.r{fill:#0969da;transform-box:fill-box;transform-origin:center}
+.g{transform-box:fill-box;transform-origin:center;animation:g 4s ease-in-out infinite}
+.c{fill:#0969da;animation:d 4s ease-in-out infinite}
+@keyframes g{0%,15%{opacity:0;transform:scale(.55)}40%{opacity:1}100%{opacity:0;transform:scale(1.1)}}
+@keyframes d{0%{opacity:0}20%,70%{opacity:1}100%{opacity:0}}
+@media (prefers-color-scheme: dark){.r{fill:#4493f8}.c{fill:#ffffff}}
 </style>
-<g fill="#4493f8" opacity="0">
-<animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.15;0.4;1" dur="4s" repeatCount="indefinite"/>
-<circle cx="8" cy="8" r="6.2" fill-opacity=".14">
-<animate attributeName="r" values="3.4;3.4;6.8" keyTimes="0;0.15;1" dur="4s" repeatCount="indefinite"/>
-</circle>
-<circle cx="8" cy="8" r="4.6" fill-opacity=".18">
-<animate attributeName="r" values="2.5;2.5;5.1" keyTimes="0;0.15;1" dur="4s" repeatCount="indefinite"/>
-</circle>
-<circle cx="8" cy="8" r="3" fill-opacity=".22">
-<animate attributeName="r" values="1.65;1.65;3.3" keyTimes="0;0.15;1" dur="4s" repeatCount="indefinite"/>
-</circle>
+<g class="g">
+<circle class="r" cx="8" cy="8" r="6.5" fill-opacity=".14"/>
+<circle class="r" cx="8" cy="8" r="4.8" fill-opacity=".18"/>
+<circle class="r" cx="8" cy="8" r="3.2" fill-opacity=".22"/>
 </g>
-<circle class="c" cx="8" cy="8" r="1.6" opacity="0">
-<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.7;1" dur="4s" repeatCount="indefinite"/>
-</circle>
+<circle class="c" cx="8" cy="8" r="1.5"/>
 </svg>
