@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="32" viewBox="0 0 18 32">
+<style>
+.k{fill:#0969da;animation:b 1s steps(1) infinite}
+@keyframes b{50%{opacity:0}}
+@media (prefers-color-scheme: dark){.k{fill:#4493f8}}
+</style>
+<rect class="k" x="1" y="27" width="16" height="3"/>
+</svg>
