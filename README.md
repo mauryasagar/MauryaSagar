@@ -4,7 +4,7 @@
 
 </div>
 
-<p align="center"><i>I'm drawn to how things work — from open source contributions to the system level. I build, analyse, automate, and explore across whatever problem interests me most.</i></p>
+<h3 align="center"><i>I'm drawn to how things work — from open source contributions to the system level. I build, analyse, automate, and explore across whatever problem interests me most.</i></h3>
 
 ##
 
