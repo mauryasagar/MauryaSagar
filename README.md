@@ -10,13 +10,13 @@
 
 <h3 align="left">What I work with</h3>
 
-<p align="left"><i>
+<p align="left">
 
 > Leveraging AI as a coding partner  
 > Writing code that solves actual problems  
 > Building small tools that make repetitive things easier
 
-</i></p>
+</p>
 
 #
 
